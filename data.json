@@ -1,0 +1,39 @@
+{
+  status: 200,
+  result: {
+    postcode: "NP44 6HA",
+    quality: 1,
+    eastings: 326798,
+    northings: 193970,
+    country: "Wales",
+    nhs_ha: "Aneurin Bevan University Health Board",
+    longitude: -3.059209,
+    latitude: 51.63975,
+    european_electoral_region: "Wales",
+    primary_care_trust: "Aneurin Bevan University Health Board",
+    region: null,
+    lsoa: "Torfaen 012B",
+    msoa: "Torfaen 012",
+    incode: "6HA",
+    outcode: "NP44",
+    parliamentary_constituency: "Torfaen",
+    admin_district: "Torfaen",
+    parish: "Henllys",
+    admin_county: null,
+    admin_ward: "Two Locks",
+    ced: null,
+    ccg: "Aneurin Bevan University Health Board",
+    nuts: "Gwent Valleys",
+    codes: {
+      admin_district: "W06000020",
+      admin_county: "W99999999",
+      admin_ward: "W05000788",
+      parish: "W04000764",
+      parliamentary_constituency: "W07000053",
+      ccg: "W11000028",
+      ccg_id: "7A6",
+      ced: "W99999999",
+      nuts: "UKL16"
+    }
+  }
+}
